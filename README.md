@@ -27,6 +27,6 @@ Biochar-based ESD mitigation from Sahara waste
 - 100% passive, no battery, works at -230°C PSR
 - Made from waste, local to Aurès
 - Prevents dust-enhanced arcing
-- Author: SIFI BOUKHARI, Technicien Supérieur Bâtiment Boumerdes 2018, Khenchela
+- Author: SIFI BOUKHARI, Technicien Supérieur Bâtiment , Khenchela
 
 **From Aurès Mountains to Lunar South Pole**
