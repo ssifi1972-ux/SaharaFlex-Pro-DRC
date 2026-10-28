@@ -34,4 +34,10 @@ Biochar-based ESD mitigation from Sahara waste
 - **Scratch Strips:** Biochar fabric 3mm strips, replaceable each EVA
 - **PCB Bronze Shoe:** Printed bronze shoe as collector, R=500MΩ, I=0.2mA
 - **Flow:** Helmet (-100kV) → Strip → Clapet → Suit → Strip → Clapet → PCB Shoe → Mat 2.20x1.20 → Lunar ground
-- **Result:** Directed discharge, no random arcing, meets NASA <1mA target 0.2mA, 4 EVAs/10 days
+- **Result:** Directed discharge, no random arcing, meets NASA <1mA target 0.2mA, 4 EVAs/10 days### V4 FINAL - COMPLETE CHAIN
+- Handle Cover: biochar fabric on ladder handle
+- Rover/Scooter Wheels: biochar cover prevents tribocharging
+- Nano Clapet: charge flows top→bottom only, no return
+- PCB Bronze Shoe: printed bronze, contact pads to mat
+- Flow: Helmet → Strip → Clapet → Shoe → Mat 2.20x1.20 in lander yard → Lunar ground
+- Result: 0.2mA directed discharge, NO ARC FOREVER
