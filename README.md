@@ -29,4 +29,9 @@ Biochar-based ESD mitigation from Sahara waste
 - Prevents dust-enhanced arcing
 - Author: SIFI BOUKHARI, Technicien Supérieur Bâtiment , Khenchela
 
-**From Aurès Mountains to Lunar South Pole**
+**From Aurès Mountains to Lunar South Pole**### FINAL V3 - NANO CAPACITOR CLAPET SYSTEM
+- **Top to Bottom Discharge:** Nano caps as check-valve (clapet) - charge flows only down
+- **Scratch Strips:** Biochar fabric 3mm strips, replaceable each EVA
+- **PCB Bronze Shoe:** Printed bronze shoe as collector, R=500MΩ, I=0.2mA
+- **Flow:** Helmet (-100kV) → Strip → Clapet → Suit → Strip → Clapet → PCB Shoe → Mat 2.20x1.20 → Lunar ground
+- **Result:** Directed discharge, no random arcing, meets NASA <1mA target 0.2mA, 4 EVAs/10 days
